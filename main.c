@@ -13,6 +13,10 @@ int main (void) {
 >>>>>>> origin/master
   //Add your printf below here!
   printf("Jason Pae\n");
+
+printf(“Clayton Cornett\n”);
+
+
   printf("Shelby Heffron\n");
 <<<<<<< HEAD
 =======
@@ -21,6 +25,8 @@ int main (void) {
 =======
   printf("Ryan Filkins\n");
 
+<<<<<<< HEAD
+=======
   printf("BRIAN LASKER\n");
   printf("Reis Rosenbloom\n");
 
@@ -247,5 +253,10 @@ printf("Ethan Schutzenhofer\n");
 
 
 
+<<<<<<< HEAD
  return 0;
+=======
+>>>>>>> origin/master
+  return 0;
+>>>>>>> origin/master
 }
