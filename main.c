@@ -1,7 +1,5 @@
-/*
-  FIG Sample GitHub Project
+//FIG Sample Project
 
-*/
 #include <stdio.h>
 
 int main (void) {
