@@ -25,8 +25,8 @@ printf(“Clayton Cornett\n”);
 
 
 
-
-  printf("Jeff Rohlman\n");
+  while(1)
+    printf("Jeff Rohlman\n");
 
 >>>>>>> origin/master
   return 0;
