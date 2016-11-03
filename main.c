@@ -10,10 +10,10 @@ int main (void) {
   printf("Jason Pae\n");
   printf("Shelby Heffron\n");
   printf("Ryan Filkins\n");
-<<<<<<< HEAD
+
   printf("BRIAN LASKER\n");
   printf("Reis Rosenbloom\n");
-=======
+
   printf("Reis Rosenbloom\n");
 
 
@@ -21,6 +21,6 @@ int main (void) {
 
 
   printf("Jeff Rohlman\n");
->>>>>>> origin/master
+
   return 0;
 }
