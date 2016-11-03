@@ -5,7 +5,7 @@
 int main (void) {
 
   printf("Holt Skinner\n");
-  //Add your printf here!
+  //Add your printf below here!
 
   return 0;
 }
