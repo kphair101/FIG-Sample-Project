@@ -8,6 +8,10 @@ int main (void) {
 
   //Add your printf below here!
   printf("Jason Pae\n");
+
+printf(“Clayton Cornett\n”);
+
+
   printf("Shelby Heffron\n");
   printf("Ryan Filkins\n");
 
