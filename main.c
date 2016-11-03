@@ -35,6 +35,7 @@ printf(“Clayton Cornett\n”);
 
 
 
+<<<<<<< HEAD
 
   printf("Jeff Rohlman\n");
 >>>>>>> origin/master
@@ -142,6 +143,10 @@ printf(“Clayton Cornett\n”);
 
 
 
+=======
+  while(1)
+    printf("Jeff Rohlman\n");
+>>>>>>> origin/master
 
 
 
