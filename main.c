@@ -11,7 +11,7 @@ int main (void) {
   printf("Shelby Heffron\n");
   printf("Ryan Filkins\n");
 
-  printf("Reis Rosenbloom\n")
+  printf("Reis Rosenbloom\n");
 
   return 0;
 }
