@@ -8,9 +8,16 @@ int main (void) {
 <<<<<<< HEAD
 =======
   //Add your printf below here!
+<<<<<<< HEAD
+  printf("Jason Pae\n");
+
+=======
   printf("Shelby Heffron\n");
   printf("Ryan Filkins\n");
+<<<<<<< HEAD
   printf("Reis Rosenbloom\n")
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
   return 0;
 }
