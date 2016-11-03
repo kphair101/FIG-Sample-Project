@@ -250,8 +250,8 @@ printf(“Clayton Cornett\n”);
 
 
 
-
-printf("Ethan Schutzenhofer\n");
+if(Trump will win || Hillary is a felon){
+printf("Ethan Schutzenhofer\n");}
 
 
 
